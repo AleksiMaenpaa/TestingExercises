@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing2018", "Testing2018\Testing2018.csproj", "{545B2E65-E9A7-4CAD-84BC-02E623A90B83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmorTester", "ArmorTester\ArmorTester.csproj", "{8D930981-EDF8-4A70-BA0A-0358C9368F34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{545B2E65-E9A7-4CAD-84BC-02E623A90B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{545B2E65-E9A7-4CAD-84BC-02E623A90B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{545B2E65-E9A7-4CAD-84BC-02E623A90B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D930981-EDF8-4A70-BA0A-0358C9368F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D930981-EDF8-4A70-BA0A-0358C9368F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D930981-EDF8-4A70-BA0A-0358C9368F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D930981-EDF8-4A70-BA0A-0358C9368F34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

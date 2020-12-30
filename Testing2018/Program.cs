@@ -12,6 +12,7 @@ namespace Testing2018
         {
             Armour ar = new Armour("Jorma", "Kokkeli", 20, 2, 2);
             Console.WriteLine(ar.getLevel());
+            Console.WriteLine(ar.getSlot());
         }
     }
 }

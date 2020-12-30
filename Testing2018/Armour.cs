@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Testing2018
 {
-    class Armour
+    public class Armour
     {
         private String name;
         private String desc; // briefly about the eqs appearance
@@ -96,7 +96,6 @@ namespace Testing2018
 
             return retVal;
         }
-
         /*
          * Getter for the maximum protection.  
          */
@@ -150,7 +149,7 @@ namespace Testing2018
          */
 
         public void repair(int pAmount)
-        {
+        {            
             if ((curProt + pAmount) > maxProt)
             {
                 curProt = maxProt;
